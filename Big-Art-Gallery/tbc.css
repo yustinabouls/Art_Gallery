@@ -1,0 +1,53 @@
+  #ContentForEvents {
+    position: fixed;
+    bottom: 0;
+    left:0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    padding: 20px;
+    scrollbar-width: auto;
+    width: 2000000px;
+    height: 40%;
+    overflow-y: scroll;
+
+  }
+  #background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  h1{
+    text-align: center;
+    
+  }
+
+  #event-price
+  {
+    color: darkgreen;
+    background-color: goldenrod;
+  }
+  #navLinks
+  {
+    text-align: right;    
+  }
+  
+  #title
+  {
+    font-size: 70px; 
+    margin: 0px; 
+    color: goldenrod; 
+    text-align: center; 
+    background-color: black; 
+    background:black;
+    border-style: inset; 
+    border-radius: 3px; 
+    border-width: 5px; 
+    border-color: goldenrod;
+    
+  }
